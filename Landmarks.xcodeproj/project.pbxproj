@@ -42,6 +42,7 @@
 		312F01992B2AD86B00E09C39 /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 312F01982B2AD86B00E09C39 /* LandmarkList.swift */; };
 		312F019B2B2AD91700E09C39 /* LandmarkDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 312F019A2B2AD91700E09C39 /* LandmarkDetail.swift */; };
 		312F019D2B2AE80F00E09C39 /* FavoriteButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 312F019C2B2AE80F00E09C39 /* FavoriteButton.swift */; };
+		873891322B39665100632B2E /* PageControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 873891312B39665100632B2E /* PageControl.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -81,6 +82,7 @@
 		312F01982B2AD86B00E09C39 /* LandmarkList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkList.swift; sourceTree = "<group>"; };
 		312F019A2B2AD91700E09C39 /* LandmarkDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkDetail.swift; sourceTree = "<group>"; };
 		312F019C2B2AE80F00E09C39 /* FavoriteButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoriteButton.swift; sourceTree = "<group>"; };
+		873891312B39665100632B2E /* PageControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageControl.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -142,6 +144,7 @@
 			isa = PBXGroup;
 			children = (
 				310AA9802B3033B800B879E8 /* PageViewController.swift */,
+				873891312B39665100632B2E /* PageControl.swift */,
 			);
 			path = PageView;
 			sourceTree = "<group>";
@@ -322,6 +325,7 @@
 				310AA95E2B2FE4C400B879E8 /* Badge.swift in Sources */,
 				312F018C2B2AD2E400E09C39 /* MapView.swift in Sources */,
 				310AA9692B3001FD00B879E8 /* GraphCapsule.swift in Sources */,
+				873891322B39665100632B2E /* PageControl.swift in Sources */,
 				312F017C2B2ACF2D00E09C39 /* LandmarksApp.swift in Sources */,
 				312F019D2B2AE80F00E09C39 /* FavoriteButton.swift in Sources */,
 				310AA9732B3009C600B879E8 /* CategoryItem.swift in Sources */,
